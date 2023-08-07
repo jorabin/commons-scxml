@@ -21,6 +21,7 @@
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-parent</artifactId>
     <version>59</version>
+    <relativePath>commons-parent-pom.xml</relativePath>
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
